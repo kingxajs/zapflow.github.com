@@ -1,0 +1,143 @@
+h1{
+    color: white;
+    font-size: 10vh;
+    font-weight:bolder;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+
+}
+body{
+   background-image: url(bilder.jpg/suddig\ \(kopia\).jpg);
+   background-position: center;
+
+}
+.wrapper{
+    margin: 150px auto;
+    width: 70%;
+}
+
+
+li{
+    padding: 5px;
+    margin: 0px;
+    display: inline;
+    
+
+}
+
+
+li ul{
+    list-style-type: none;
+}
+
+ a{
+    font-size: 1em;
+    border: 5px solid;
+    border-width: 3px;
+    border-radius: 7px;
+    padding: 30px;
+    text-align:center;
+    line-height: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: white;
+    border-radius: 30px;
+    background: rgb(23, 92, 23);
+    text-decoration: none;
+   
+
+}
+
+li a:hover{
+    cursor: pointer;
+    background: fixed;
+    color: rgb(27, 111, 86);
+    
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+font-family:'Courier New', Courier, monospace;
+background-color: white;
+}
+
+
+header{
+height: 125px;
+background-size: cover;
+margin: 0px;
+
+
+}
+
+div{
+    color:black;
+    float: left;
+
+}
+
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 200px;
+font-size: larger;
+font-size: 20px;
+font-weight: 200px;
+margin-left: 250px;
+}
+h2{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+margin-top: 100px;
+    
+}
+
+
+
+img{
+    padding-right: 800px;
+margin-left: 250px;   
+margin-bottom: 100px;
+width: 1000px;
+ 
+}
+h3{
+    margin-top: 100px;
+}
+
+.floatRight{
+    float: right;
+    margin: 0 0 10px 20px ;
+    padding-left: 100px;
+}
+.andrabilden {
+    width: 400px;
+    
+    
+}
+b{color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+margin-top: 100px;
+    }
+h4{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    margin-top: 40px;
+}
+h5{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    margin-top: 20px;
+}
+
+
